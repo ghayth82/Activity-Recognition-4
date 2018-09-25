@@ -1,0 +1,2 @@
+The availability of a system capable of automatically classifying the physical activity performed by a human subject is extremely attractive for many applications in the field of healthcare monitoring and in developing advanced human-machine interfaces. By the term physical activity, we mean either static postures, such as standing, sitting, lying, or dynamic motions, such as walking, running In this project we aim to predict the Human Activity from the sensor readings of Sony smartwatch. We are primarily using accelerometer and gyroscope readings for our modelling.
+
